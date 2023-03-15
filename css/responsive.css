@@ -1,0 +1,329 @@
+@media all and (max-width:1700px){
+	
+
+
+}
+/*1700 End */
+@media all and (max-width:1439px){
+	.container {
+        padding: 0 15px;
+    }
+
+
+
+}
+/*1439 End */
+@media all and (max-width:1365px){
+    .heading {
+        font-size: 36px;
+    }
+    .banner-sec {
+        padding: 75px 0;
+    }
+	.banner-left h1 {
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+    .s-btn h3 {
+        font-size: 23px;
+    }
+    .single-service {
+        width: 48%;
+        padding: 20px;
+    }
+    .faq-section {
+        padding: 50px 0;
+    }
+
+
+
+
+}
+/*1365 End*/
+@media all and (max-width:1200px){
+    .btn {
+        padding: 15px 20px;
+        font-size: 16px;
+    }
+    .banner-sec {
+        padding: 35px 0 45px;
+    }
+	.banner-wrap {
+        gap: 50px;
+    }
+    .banner-left h1 {
+        font-size: 36px;
+    }
+    .banner-left p {
+        font-size: 16px;
+        line-height: 30px;
+        margin-bottom: 35px;
+    }
+    .banner-left .order-p {
+        font-size: 22px;
+    }
+    .service-sec {
+        margin: 50px 0;
+    }
+    .faq-btn a {
+        gap: 12px;
+    }
+    .order-from-sec {
+        padding: 50px 0;
+    }
+    .order-from-sec h2 {
+        font-size: 33px;
+    }
+    .order-wrap {
+        margin-top: 45px;
+        gap: 50px;
+    }
+
+
+
+
+
+}
+/*1200 End */
+@media all and (max-width:992px){
+    .header-left img {
+        width: 120px;
+    }
+	.banner-left h1 {
+        font-size: 26px;
+    }
+    .banner-left .order-p {
+        font-size: 18px;
+    }
+    .heading {
+        font-size: 26px;
+    }
+    .single-service {
+        padding: 20px 15px 30px 15px;
+    }
+    .s-icon svg {
+        width: 80px;
+        height: 80px;
+    }
+    .single-service p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .s-btn h3 {
+        font-size: 18px;
+        margin-bottom: 35px;
+    }
+    .s-btn a {
+        font-size: 22px;
+    }
+    .faq-section h2 {
+        margin-bottom: 40px;
+    }
+    .accordion-body {
+        gap: 20px 30px;
+    }
+    .single-acco {
+        width: 47%;
+    }
+    .single-acco h3 {
+        font-size: 18px;
+    }
+    .single-acco p {
+        font-size: 15px;
+        line-height: 29px;
+    }
+    .single-acco h3 {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .faq-btn {
+        margin-top: 40px;
+    }
+    .order-left h3 {
+        font-size: 18px;
+    }
+    .order-wrap {
+        gap: 30px;
+    }
+    .single-group input {
+        padding: 15px 10px;
+        font-size: 16px;
+    }
+    .order-from-sec h2 {
+        font-size: 26px;
+    }
+    .faq-btn a {
+        gap: 5px;
+    }
+    /* Privacy Page -------- */
+    .privacy-banner {
+        padding: 50px 0 70px 0;
+        border-radius: 0 0 50% 50%;
+    }
+    .privacy-bn-con h1 {
+        font-size: 36px;
+    }
+    .privacy-content {
+        margin: 50px 0;
+    }
+    /* table */
+    .dash-table {
+        width: 1000px;
+        padding: 0;
+    }
+    .dash-wrap {
+        overflow: scroll;
+    }
+    .table {
+        width: 1000px;
+        padding: 0px !important;
+    }
+    .table tr th, .table tr td {
+        padding: 10px 5px;
+    }
+    #example_length {
+        margin-top: 0;
+        margin-bottom: 20px;
+        float: unset;
+        text-align: left;
+    }
+    #example_filter {
+        float: unset;
+    }
+    .dataTables_wrapper .dataTables_info {
+        float: unset;
+        padding-left: 2.1rem;
+        text-align: left;
+    }
+    .dataTables_wrapper .dataTables_paginate {
+        float: unset;
+        text-align: left;
+        margin-top: 15px;
+    }
+
+
+
+
+}
+/*992 End */
+@media all and (max-width: 768px){
+    .banner-wrap {
+        flex-wrap: wrap;
+    }
+	.banner-left {
+        flex: auto;
+    }
+    .banner-right img {
+        aspect-ratio: 16/9;
+    }
+    .s-btn a {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .customer-sec {
+        padding: 60px 0;
+    }
+    .customer-sec h2 {
+        margin-bottom: 20px;
+    }
+    .customer-wrap .LLCGslider-dots {
+        margin-top: 0;
+    }
+    .privacy-banner {
+        padding: 30px 0 35px 0;
+    }
+    .privacy-bn-con h1 {
+        font-size: 28px;
+    }
+
+
+}
+/*768 End */
+@media all and (max-width: 576px){
+    .heading {
+        font-size: 20px;
+    }
+    .header-left a {
+        width: 80px;
+    }
+    .header-right ul {
+        gap: 18px;
+    }
+    .header-right ul li a svg {
+        width: 28px;
+    }
+	.banner-left h1 {
+        font-size: 20px;
+    }
+    .service-wrap {
+        margin-top: 20px;
+    }
+    .service-wrap::after {
+        display: none;
+    }
+    .single-service {
+        padding: 20px 0;
+        width: 100%;
+    }
+    .single-service:nth-last-child(2), .single-service:nth-last-child(1) {
+        border-bottom: 1px solid rgb(0 0 0 / 13%);
+    }
+    .single-service p {
+        min-height: auto;
+    }
+    .accordion-body {
+        gap: 30px;
+    }
+    .single-acco {
+        width: 100%;
+    }
+    .order-wrap {
+        gap: 10px;
+        flex-wrap: wrap;
+    }
+    .order-wrap > div {
+        flex: auto;
+    }
+    .order-from-sec h2 {
+        font-size: 18px;
+    }
+    .single-details {
+        padding-bottom: 15px;
+    }
+    .privacy-banner {
+        padding: 15px 0 35px 0;
+    }
+    .content-privacy h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    .content-privacy p {
+        line-height: 26px;
+        margin-bottom: 15px;
+    }
+    .banner-left .order-p {
+        font-size: 16px;
+    }
+
+
+
+}
+/*576 End */
+
+/*
+1920
+1700
+1450
+1366
+1200
+1024
+768
+576
+428
+414
+390
+375
+360
+320
+*/
+
